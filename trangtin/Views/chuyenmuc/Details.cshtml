@@ -1,0 +1,30 @@
+﻿@model trangtin.Models.chuyenmuc
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>chuyenmuc</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tenchuyenmuc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tenchuyenmuc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.thutu)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.thutu)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.chuyenmucid">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

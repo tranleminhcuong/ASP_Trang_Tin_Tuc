@@ -1,0 +1,95 @@
+﻿@model IEnumerable<trangtin.Models.bantin>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tieude)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tomtat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.noidung)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ngaydang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nguoidang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hinhanh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tieudehinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.luotxem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.noibat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.kichhoat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.chude)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tieude)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tomtat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.noidung)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngaydang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nguoidang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.hinhanh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tieudehinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.luotxem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.noibat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.kichhoat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.chude.tenchude)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.bantinid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.bantinid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.bantinid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,47 @@
+﻿@model trangtin.Models.chude
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>chude</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="tenchude" class="control-label"></label>
+                <input asp-for="tenchude" class="form-control" />
+                <span asp-validation-for="tenchude" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="chuyenmucid" class="control-label"></label>
+                <select asp-for="chuyenmucid" class ="form-control" asp-items="ViewBag.chuyenmucid"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="thutu" class="control-label"></label>
+                <input asp-for="thutu" class="form-control" />
+                <span asp-validation-for="thutu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="kichhoat" class="control-label"></label>
+                <input asp-for="kichhoat" class="form-control" />
+                <span asp-validation-for="kichhoat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

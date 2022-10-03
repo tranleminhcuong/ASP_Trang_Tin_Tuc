@@ -1,0 +1,47 @@
+﻿@model IEnumerable<trangtin.Models.bantin>
+
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+
+
+
+
+
+<div class="row">
+
+
+    <div class="col-md-9">
+        @foreach (var i in Model)
+        {
+            <div class="rounded m-3 p-3 shadow">
+                <h4 class="text-warning">@i.chude.tenchude</h4><hr />
+                <h5 class="text-primary">@i.tieude</h5>
+                <p class="text-muted">@i.ngaydang</p>
+                <div class="row">
+                    <div class="col-4">
+                        <img src="~/images/@i.hinhanh" class="img-thumbnail" />
+                    </div>
+                    <div class="col">
+                        <p class="text-justify">@i.tomtat</p>
+                        <p>
+                            <a class="btn btn-success" asp-action="Details" asp-route-id="@i.bantinid">
+                                Chi tiết
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="col-md-3 bg-primary">
+        <!-- Carousel -->
+       
+       <h1> <strong>Quảng Cáo</strong> </h1>
+    </div>
+
+    
+
+</div>

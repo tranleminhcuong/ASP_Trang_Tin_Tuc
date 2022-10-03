@@ -1,0 +1,53 @@
+﻿@model IEnumerable<trangtin.Models.chude>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tenchude)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.thutu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.kichhoat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.chuyenmuc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tenchude)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.thutu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.kichhoat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.chuyenmuc.tenchuyenmuc)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.chudeid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.chudeid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.chudeid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

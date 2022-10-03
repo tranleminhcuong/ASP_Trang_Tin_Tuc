@@ -1,0 +1,17 @@
+﻿<ul class="nav navbar-nav">
+    @foreach (var i in (List<chuyenmuc>)ViewBag.chuyenmuc)
+    {
+        <li class="nav-item dropdown">
+            <a class="nav-link" href="#" data-toggle="dropdown">@i.tenchuyenmuc</a>
+            <ul class="dropdown-menu">
+                @foreach (var c in (List<chude>)ViewBag.chude)
+                {
+                    if (c.chuyenmucid == i.chuyenmucid)
+                    {
+                        <li><a class="dropdown-item" href="#">@c.tenchude</a></li>
+                    }
+                }
+            </ul>
+        </li>
+    }
+</ul>

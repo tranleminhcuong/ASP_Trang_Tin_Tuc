@@ -1,0 +1,1366 @@
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\appsettings.json
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.StaticWebAssets.xml
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.exe
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.deps.json
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.runtimeconfig.json
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.runtimeconfig.dev.json
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.pdb
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.Views.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.Views.pdb
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\baitap\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.AssemblyReference.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.AssemblyInfoInputs.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.AssemblyInfo.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.CoreCompileInputs.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.MvcApplicationPartsAssemblyInfo.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.MvcApplicationPartsAssemblyInfo.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorAssemblyInfo.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorAssemblyInfo.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\staticwebassets\trangtin.StaticWebAssets.Manifest.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\staticwebassets\trangtin.StaticWebAssets.xml
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\scopedcss\bundle\trangtin.styles.css
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.TagHelpers.input.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.TagHelpers.output.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorCoreGenerate.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorTargetAssemblyInfo.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorTargetAssemblyInfo.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.Views.pdb
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.CopyComplete
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.dll
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.pdb
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.genruntimeconfig.cache
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Create.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Delete.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Details.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Edit.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Index.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Create.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Delete.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Details.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Edit.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Index.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Create.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Delete.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Details.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Edit.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Index.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\Details.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_MainLayout.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_ViewStart.cshtml.g.cs
+D:\baitap\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_MainMenuPartial.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.StaticWebAssets.xml
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.exe
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.deps.json
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.runtimeconfig.json
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.runtimeconfig.dev.json
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.pdb
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.Views.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\trangtin.Views.pdb
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo\baitap netcore\trangtin\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.AssemblyReference.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.AssemblyInfoInputs.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.AssemblyInfo.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.CoreCompileInputs.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.MvcApplicationPartsAssemblyInfo.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.MvcApplicationPartsAssemblyInfo.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorAssemblyInfo.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorAssemblyInfo.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\staticwebassets\trangtin.StaticWebAssets.Manifest.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\staticwebassets\trangtin.StaticWebAssets.xml
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\scopedcss\bundle\trangtin.styles.css
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.TagHelpers.input.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.TagHelpers.output.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorCoreGenerate.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Create.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Delete.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Details.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Edit.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Index.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Create.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Delete.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Details.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Edit.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Index.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Create.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Delete.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Details.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Edit.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Index.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\Details.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_MainLayout.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_MainMenuPartial.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_ViewStart.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorTargetAssemblyInfo.cache
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorTargetAssemblyInfo.cs
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.Views.pdb
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.CopyComplete
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.dll
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.pdb
+D:\Demo\baitap netcore\trangtin\trangtin\obj\Debug\netcoreapp3.1\trangtin.genruntimeconfig.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.StaticWebAssets.xml
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.exe
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.deps.json
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.runtimeconfig.json
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.runtimeconfig.dev.json
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.pdb
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.Views.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\trangtin.Views.pdb
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.csprojAssemblyReference.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.AssemblyInfoInputs.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.AssemblyInfo.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.CoreCompileInputs.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.MvcApplicationPartsAssemblyInfo.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.MvcApplicationPartsAssemblyInfo.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorAssemblyInfo.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorAssemblyInfo.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\staticwebassets\trangtin.StaticWebAssets.Manifest.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\staticwebassets\trangtin.StaticWebAssets.xml
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\scopedcss\bundle\trangtin.styles.css
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.TagHelpers.input.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.TagHelpers.output.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorCoreGenerate.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Create.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Delete.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Details.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Edit.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\bantin\Index.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Create.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Delete.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Details.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Edit.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chude\Index.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Create.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Delete.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Details.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Edit.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\chuyenmuc\Index.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\Details.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_MainLayout.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_MainMenuPartial.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Main\_ViewStart.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorTargetAssemblyInfo.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.RazorTargetAssemblyInfo.cs
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.Views.pdb
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.csproj.CopyComplete
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.pdb
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\obj\Debug\netcoreapp3.1\trangtin.genruntimeconfig.cache
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\PagedList.dll
+D:\SoftZ\ASP\Covi\demo_BTTH07\trangtin\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
